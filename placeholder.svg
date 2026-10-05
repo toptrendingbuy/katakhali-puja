@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#24112f"/><stop offset=".55" stop-color="#7d1d48"/><stop offset="1" stop-color="#d97706"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/><circle cx="600" cy="300" r="160" fill="none" stroke="#fbbf24" stroke-width="5" opacity=".6"/>
+<text x="600" y="315" text-anchor="middle" fill="#fff7ed" font-size="58" font-family="serif">কাটাখালী যুব সংঘ</text>
+<text x="600" y="385" text-anchor="middle" fill="#fde68a" font-size="34" font-family="sans-serif">ছবি এখানে যোগ করুন</text></svg>
